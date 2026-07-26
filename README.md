@@ -212,7 +212,7 @@ If you found this project helpful, please give it a ⭐ on GitHub.
 
 🔗 LinkedIn: https://www.linkedin.com/in/om-sharma-a0859833a/
 
-📧 Email: *Add your email here*
+📧 Email: Som758510@gmail.com
 
 ---
 
