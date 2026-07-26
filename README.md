@@ -112,3 +112,32 @@ https://www.linkedin.com/in/om-sharma-a0859833a/
 ---
 
 ⭐ If you found this project useful, don't forget to Star this repository.
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+
+![Home](assets/images/screenshots/home.png)
+
+---
+
+### 🔐 Login Page
+
+![Login](assets/images/screenshots/login.png)
+
+---
+
+### 📝 Signup Page
+
+![Signup](assets/images/screenshots/signup.png)
+
+---
+
+### 👮 Officer Login
+
+![Officer Login](assets/images/screenshots/officer-login.png)
+
+---
+
+### 📊 Dashboard
+
+![Dashboard](assets/images/screenshots/dashboard.png)
