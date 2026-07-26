@@ -141,3 +141,31 @@ https://www.linkedin.com/in/om-sharma-a0859833a/
 ### 📊 Dashboard
 
 ![Dashboard](assets/images/screenshots/dashboard.png)
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js
+- TypeScript
+- Tailwind CSS
+- Vite
+- ShadCN UI
+- Lucide React
+
+### Backend
+
+- Java 17
+- Spring Boot
+- Spring Data JPA
+- Maven
+
+### Database
+
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
