@@ -93,3 +93,22 @@ Java Full Stack Developer
 ---
 
 ⭐ If you like this project, don't forget to Star this repository.
+---
+
+# 👨‍💻 Developer
+
+## Om Sharma
+
+Full Stack Java Developer | React Developer | UI/UX Designer
+
+📧 Email: Som758210@gmail.com
+
+🌐 GitHub:
+https://github.com/OMsharma200429
+
+💼 LinkedIn:
+https://www.linkedin.com/in/om-sharma-a0859833a/
+
+---
+
+⭐ If you found this project useful, don't forget to Star this repository.
