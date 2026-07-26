@@ -169,3 +169,55 @@ https://www.linkedin.com/in/om-sharma-a0859833a/
 - GitHub
 - VS Code
 - Postman
+---
+
+# 🚀 Future Enhancements
+
+- 🔐 JWT Authentication & Authorization
+- 📧 Email Notifications
+- 📱 Responsive Mobile Design
+- 📍 Google Maps Integration
+- 📷 Complaint Image Upload
+- 🔔 Real-time Complaint Status Updates
+- 📊 Advanced Analytics Dashboard
+- 📂 Complaint History
+- 👮 Municipal Officer Management
+- ☁️ Cloud Deployment (Vercel + Render)
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push your branch
+5. Open a Pull Request
+
+---
+
+# ⭐ Support
+
+If you found this project helpful, please give it a ⭐ on GitHub.
+
+---
+
+# 👨‍💻 Author
+
+**Om Sharma**
+
+💼 Full Stack Java Developer
+
+🔗 LinkedIn: https://www.linkedin.com/in/om-sharma-a0859833a/
+
+📧 Email: *Add your email here*
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+Copyright © 2026 Om Sharma. All rights reserved. 
