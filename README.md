@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="./assets/images/banner.png" alt="Smart City Complaint Management System Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Spring_Boot-3-green?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/MySQL-8-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=for-the-badge&logo=tailwindcss" />
+</p>
 # 🚀 Smart City Complaint Management System
 
 > A modern full-stack web application that enables citizens to report, track, and manage city complaints efficiently.
